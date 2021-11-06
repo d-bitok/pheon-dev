@@ -8,7 +8,7 @@ module.exports = withPWA({
         path: "https://noop/",
     },
     pwa: {
-        dest: "out",
+        dest: "public",
         register: true,
         skipWaiting: true,
         disable: process.env.NODE_ENV === 'development'
