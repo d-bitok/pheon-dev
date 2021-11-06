@@ -1,8 +1,8 @@
 export default {
     // Temporary Fonts
     fonts: {
-        title: "Space Grotesk, monospace",
-        main: "Space Grotesk, monospace",
+        title: "Courier, monospace",
+        main: "Courier, monospace",
     },
 
     // Colours And Layout

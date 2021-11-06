@@ -1,6 +1,6 @@
-import Theme from '../styles/theme';
+import Theme from '../styles/theme'
 
-export default function App({ Component, pageProps }) {
+export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <Theme>
